@@ -1,7 +1,7 @@
 # HR_Analysis
 Developed an HR Analytics Dashboard in Power BI to monitor KPIs like job satisfaction, salary, performance, and attrition. Identified key workforce trends through interactive charts and proposed data-driven solutions to improve employee retention, satisfaction, and productivity.
 
-🛑 2. Business Problems Identified
+🛑 Business Problems Identified
 1.	Low Job Satisfaction in Some Roles or Age Groups
 2.	High Attrition Rate Among Certain Age Groups
 3.	Poor Work-Life Balance Scores Despite High Salaries
@@ -13,7 +13,7 @@ Developed an HR Analytics Dashboard in Power BI to monitor KPIs like job satisfa
 9.	Stagnation in Role (No Promotion for Years)
 10.	Mismatch Between Age and Monthly Income Across Departments
 ________________________________________
-✅ 3. Business Solutions
+✅ Business Solutions
 1.	Conduct engagement programs for employees with low job satisfaction based on age or job role.
 2.	Implement targeted retention strategies for age groups with high attrition, such as mentorship and flexible policies.
 3.	Review work-life policies, introduce wellness programs for teams reporting poor balance despite compensation.
@@ -26,7 +26,7 @@ ________________________________________
 10.	Balance income growth across age brackets, especially where older employees are underpaid compared to younger hires.
 
 
-🛑 2. Business Problems Identified
+🛑 Business Problems Identified
 1.	Low Job Satisfaction in Some Roles or Age Groups
 2.	High Attrition Rate Among Certain Age Groups
 3.	Poor Work-Life Balance Scores Despite High Salaries
@@ -38,7 +38,7 @@ ________________________________________
 9.	Stagnation in Role (No Promotion for Years)
 10.	Mismatch Between Age and Monthly Income Across Departments
 ________________________________________
-✅ 3. Business Solutions
+✅ Business Solutions
 1.	Conduct engagement programs for employees with low job satisfaction based on age or job role.
 2.	Implement targeted retention strategies for age groups with high attrition, such as mentorship and flexible policies.
 3.	Review work-life policies, introduce wellness programs for teams reporting poor balance despite compensation.
